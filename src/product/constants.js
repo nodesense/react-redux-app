@@ -1,0 +1,6 @@
+
+export const ADD_NEW_PRODUCT = "ADD_NEW_PRODUCT";
+export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
+
+export const PRODUCTS_INIT = "PRODUCTS_INIT";
